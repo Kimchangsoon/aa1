@@ -1,12 +1,18 @@
 @import "reset";
 // sass --watch scss/style.scss:css/style.css
-div {
+div .box1 {
     background-color: orange;
+}
+
+div .box2 {
+    background-color: red;
 }
 
 h1 {
     font-size: 2rem;
 }
+
+
 
 
 

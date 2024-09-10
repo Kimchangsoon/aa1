@@ -8,8 +8,12 @@ ul, li, ol {
   list-style: none;
 }
 
-div {
+div .box1 {
   background-color: orange;
+}
+
+div .box2 {
+  background-color: red;
 }
 
 h1 {
