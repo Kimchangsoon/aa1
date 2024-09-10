@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ul, li, ol {
+  list-style: none;
+}
+
+div {
+  background-color: orange;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
